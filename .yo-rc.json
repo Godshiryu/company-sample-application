@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "companySampleApplication",
+    "packageName": "com.company.sample",
+    "packageFolder": "com/company/sample",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "NmJmOTdmNWJiYjAxOWNmYzk5OGRhMDYwMWI4MmQyMTBlNzk3YTQzMDhiMGU5OWMwMGFmYTNjMTQ3NWE1NDFhYTExYmJlNTgxYTgwYmIzYjdjZDhmZWU2ZTExOTU0MjliNDEyMjkxMWNmMTlmNTg0NzUyYTZhMzI3YTVlYzg4OTk=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Godshiryu",
+  "repository-name": "company-sample-application"
+}
